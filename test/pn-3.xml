@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE shrs SYSTEM "http://api.simplyhired.com/c/jobs-api/html/sr2.dtd">
+<shrs>
+<rq url="http://api.simplyhired.com/a/jobs-api/xml_v2/q-Rails+Ajax/l-New+York%2CNY/mi-10/fdb-30/pn-3/ws-25">
+  <t>Rails Ajax Jobs - New York, NY</t>
+  <dt>2014-01-14T16:52:01Z</dt>
+  <si>50</si>
+  <rpd>25</rpd>
+  <tr>66</tr>
+  <tv>59</tv>
+  <em url=""/>
+<h>
+  <kw pos="1"/>
+</h>
+</rq>
+<rs>
+<r>
+  <jt>Consultant - .Net/SQL Programmer</jt>
+  <cn url="">Deloitte Development</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8e1d1d757cda9d6855b63613cfd35d33478ed26f/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-50/hits-66">Deloitte Development LLC</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-06T05:38:47Z</ls>
+  <dp>2014-01-06T05:38:47Z</dp>
+  <e>in Microsoft technologies
+* VB.Net, ASP.Net, C#, Ajax, XML/XSLT/XPATH, ADO.net, Object oriented programming
+* ... skills.
+* Working knowledge on QlikView Ruby on Rails, Google Refine, HTML5, jQuery, Jasper Reports and...&gt;</e>
+</r>
+<r>
+  <jt>PHP / Front End Web Developer</jt>
+  <cn url="">Cybercoders</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.RK1-ItsaWholeWebDev_1/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-51/hits-66">CyberCoders</src>
+  <ty>organic</ty>
+  <loc cty="Union City" st="NJ" postal="07094" county="Hudson County" region="" country="US">Union City, NJ</loc>
+  <ls>2014-01-02T12:28:00Z</ls>
+  <dp>2013-12-31T12:36:21Z</dp>
+  <e>A plus for: • Any experience with Ruby on Rails • Experience with Drupal 7.x / 6.x and PHP 5.x ... • Expertise with web services and third party system integration • Experience working with AJAX and services/ API's to s...&gt;</e>
+</r>
+<r>
+  <jt>Senior Consultant - .Net/SQL Programmer w/Lead experience</jt>
+  <cn url="">Deloitte</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5615941/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-52/hits-66">Dice</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="10001" county="Manhattan" region="" country="US">New York, NY</loc>
+  <ls>2014-01-10T05:11:46Z</ls>
+  <dp>2014-01-08T03:10:04Z</dp>
+  <e>Services is required. Working knowledge on QlikView Ruby on Rails, Google Refine, HTML5, jQuery, Jasper Reports and ... in Microsoft technologies bull VB.Net, ASP.Net, C, Ajax, XMLXSLTXPATH, ADO.net, Object oriented programming...&gt;</e>
+</r>
+<r>
+  <jt>Solution Architect</jt>
+  <cn url="">Bluewater Communications Group</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5664913/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-53/hits-66">Dice</src>
+  <ty>organic</ty>
+  <loc cty="Englewood Cliffs" st="NJ" postal="07632" county="" region="" country="US">Englewood Cliffs, NJ</loc>
+  <ls>2014-01-11T02:05:52Z</ls>
+  <dp>2014-01-09T17:09:24Z</dp>
+  <e>CSS etc. Experience in MVC Frameworks such as Ruby, Ruby on Rails, Spring, Struts2, Hibernate, Seam, JQuery, Rich faces, ... MVC4 etc. Experience in modern programming components like AJAX, Web Services(WSREST),WebSockets, AAS. Must have used...&gt;</e>
+</r>
+<r>
+  <jt>Hardcore UI JavaScript Developer</jt>
+  <cn url="">Smith &amp; Keller</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-2dff3bb0e3671373b13d50c6d9d2be6ea12eb3b1/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-54/hits-66">Smith &amp; Keller INC</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-02T20:35:21Z</ls>
+  <dp>2014-01-02T20:35:21Z</dp>
+  <e>themes, Drupal), JSP, Expression Engine or Ruby on Rails
+* Have working knowledge of Adobe Photoshop, including the ... control and bug tracking systems. (Specifically SVN is a plus)
+* Experience with AJAX technologies and...&gt;</e>
+</r>
+<r>
+  <jt>Full-Stack LAMP Developer</jt>
+  <cn url="">Cybercoders</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.BT1-LAMPdevNY_1/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-55/hits-66">CyberCoders</src>
+  <ty>organic</ty>
+  <loc cty="Manhattan" st="NY" postal="10013" county="Manhattan" region="" country="US">Manhattan, NY</loc>
+  <ls>2014-01-06T12:30:55Z</ls>
+  <dp>2013-12-19T08:31:13Z</dp>
+  <e>MySQL, Smarty -jQuery Library, DOM manipulation, AJAX, SCSS for stylesheets, HTML5, JavaScript, UI/UX, ... stacks like Django, Ruby on Rails or .NET. So, if you are a Full-Stack LAMP Developer with strong front-end...&gt;</e>
+</r>
+<r>
+  <jt>Manager - .Net/SQL Programmer w/people and PM experience</jt>
+  <cn url="">Deloitte</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5614373/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-56/hits-66">Dice</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="10001" county="Manhattan" region="" country="US">New York, NY</loc>
+  <ls>2014-01-10T05:12:02Z</ls>
+  <dp>2014-01-08T03:10:22Z</dp>
+  <e>Services is required. Working knowledge on QlikView Ruby on Rails, Google Refine, HTML5, jQuery, Jasper Reports and ... technologies (.NET 3.5 or higher) - VB.Net, ASP.Net, C, Ajax, XMLXSLTXPATH, ADO.net, Object oriented programming -...&gt;</e>
+</r>
+<r>
+  <jt>Full-Stack PHP Developer</jt>
+  <cn url="">Cybercoders</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.BT1-PHPdevNY_1/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-57/hits-66">CyberCoders</src>
+  <ty>organic</ty>
+  <loc cty="Manhattan" st="NY" postal="10013" county="Manhattan" region="" country="US">Manhattan, NY</loc>
+  <ls>2013-12-20T20:28:25Z</ls>
+  <dp>2013-12-17T08:32:08Z</dp>
+  <e>MySQL, Smarty -jQuery Library, DOM manipulation, AJAX, SCSS for stylesheets, HTML5, JavaScript, UI/UX, ... stacks like Django, Ruby on Rails or .NET. So, if you are a Full-Stack PHP Developer with strong front-end...&gt;</e>
+</r>
+<r>
+  <jt>Senior RoR/JavaScript Engineer</jt>
+  <cn url="">Cybercoders</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.AD1-RubyJavaScriptNYC/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-58/hits-66">CyberCoders</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="10001" county="Manhattan" region="" country="US">New York, NY</loc>
+  <ls>2013-12-24T12:27:47Z</ls>
+  <dp>2013-12-19T08:31:11Z</dp>
+  <e>CSS in an application environment - Experience with Ruby (Rails preferred) required (other MVC languages &amp;amp; frameworks a plus) - Experience with Web 2.0 technologies (AJAX, JSON, WebSockets) - Experience with RESTful interfaces and Web...&gt;</e>
+</r>
+</rs>
+<pjl>
+</pjl>
+</shrs>
