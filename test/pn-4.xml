@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE shrs SYSTEM "http://api.simplyhired.com/c/jobs-api/html/sr2.dtd">
+<sherror>
+  <error type="noresults" code="1.1">
+  <title/>
+  <subtitle/>
+  <text/>
+  <base/>
+ </error>
+</sherror>

@@ -3,8 +3,7 @@ require "ox"
 require 'simplyhired/job'
 module Simplyhired
 	class Client
-		attr_reader :location, :jobs, :current_page, :page_size, :error, :keywords, :zip, :city, :state, :distance, :days
-		SH_SITE = 'http://api.simplyhired.com/a/jobs-api/xml-v2/q-'
+		attr_reader :query_type, :location, :jobs, :current_page, :page_size, :error, :keywords, :zip, :city, :state, :distance, :days
 
 		def initialize(ip)
 			config_values = Simplyhired.config_values
@@ -12,7 +11,8 @@ module Simplyhired
 			@jbd = config_values[:jbd]
 			@credentials = "?pshid=#{@pshid}&ssty=2&cflg=r&jbd=#{@jbd}&clip=#{ip}"
 		end
-		def search_jobs(kw, z, c, s, distance = 10, days = 0, page = 1, p = 25)
+
+		def search_jobs(kw, z, c, s, options = {})
 			unless @pshid
 				@error = 'define pshid in a configuration file'
 				return nil
@@ -21,21 +21,20 @@ module Simplyhired
 				@error = 'define jbd in a configuration file'
 				return nil
 			end
-
+			@query_type = options[:query_type] || :OR
 			@zip = z
-			@city = c && c.sub(' ', '+')
-			@state = s && s.sub(' ', '+')
-			@page_size = p
-			@distance = distance
-			@days = days
+			@city = c && c.split.join('+')
+			@state = s && s.split.join('+')
+			@page_size = options[:ws] || 25
+			@distance = options[:distance] || 10
+			@days = options[:days] || 0 # 0 means all
 
-			@keywords = kw[0]
-			(1..kw.count).each {|k| @keywords += "+"+ kw[k].to_s} if kw.count > 1
+			@keywords = kw
 
-			@location = (zip && !zip.empty?) ? zip : "#{@city},#{@state}"
-			@current_page = page
+			@location = (@zip && !@zip.empty?) ? @zip : "#{@city},#{@state}"
+			@current_page = options[:page] || 1
 
-			@url = ""
+			@uri = ""
 			@jobs = nil
 			search @current_page
 			@jobs
@@ -56,15 +55,36 @@ module Simplyhired
 
 	  private
 
-		def search(p = 0)
+		def search(p = 1)
+			sh_prefix = 'http://api.simplyhired.com/a/jobs-api/xml-v2/q-'
 
-			p > 0 ? pn = "/pn-#{p}" : pn = ""
 
-			@url = SH_SITE + @keywords + "/l-" + @location + "/mi-#{@distance}" + (@days > 0 ? "/fdb-#{@days}" : "") +"/ws-#{@page_size}" + pn + @credentials
+			pn = "/pn-#{p}"
+			kw = @keywords.join('+')
+
+			case @query_type
+			when :AND
+				kw = @keywords.join('+AND+')
+			when :PHRASE
+				kw = '"' + @keywords.join('+') + '"'
+			else
+				kw = @keywords.join('+')
+			end
+
+
+			if @days > 0
+				@uri = sh_prefix + kw + "/l-" + @location + "/mi-#{@distance}" + "/fdb-#{@days}" +"/ws-#{@page_size}" + pn + @credentials
+			else
+				@uri = sh_prefix + kw + "/l-" + @location + "/mi-#{@distance}" +"/ws-#{@page_size}" + pn + @credentials
+			end
+
+			@uri = URI.escape @uri
+
+			# puts @uri
 
 			handler = Handler.new
 			begin
-				io = open @url
+				io = open @uri
 				Ox.sax_parse(handler, io)
 				@jobs = handler.jobs
 				@total_count = handler.total

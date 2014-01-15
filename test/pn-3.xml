@@ -3,11 +3,11 @@
 <shrs>
 <rq url="http://api.simplyhired.com/a/jobs-api/xml_v2/q-Rails+Ajax/l-New+York%2CNY/mi-10/fdb-30/pn-3/ws-25">
   <t>Rails Ajax Jobs - New York, NY</t>
-  <dt>2014-01-14T16:52:01Z</dt>
+  <dt>2014-01-15T16:45:30Z</dt>
   <si>50</si>
   <rpd>25</rpd>
-  <tr>66</tr>
-  <tv>59</tv>
+  <tr>83</tr>
+  <tv>70</tv>
   <em url=""/>
 <h>
   <kw pos="1"/>
@@ -15,9 +15,145 @@
 </rq>
 <rs>
 <r>
+  <jt>Innovation Engineer - Lamp/Web/Mobile</jt>
+  <cn url="">Consumer Reports</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-58f6bad9d292cdab6d86a21e648f14c2e6ee6b/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-50/hits-83">Stack Overflow</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-11T05:27:49Z</ls>
+  <dp>2014-01-11T05:27:49Z</dp>
+  <e>etc.
+* Develop front-end (HTML5, CSS, JavaScript, JSON, AJAX, REST), back-end (Ruby on Rails, PHP, python, node.js), and databases (MySQL, mongoDB, hadoop); and perform light systems administration (Linux, AWS, heroku) to support prototype...&gt;</e>
+</r>
+<r>
+  <jt>Software Engineer II Web</jt>
+  <cn url="">Frog</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-6503.oF7eYfwI/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-51/hits-83">frog</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="10013" county="Manhattan" region="" country="US">New York, NY</loc>
+  <ls>2014-01-06T21:06:04Z</ls>
+  <dp>2014-01-06T21:06:04Z</dp>
+  <e>using jQuery, prototype, Ext JS AJAX and Web Services Mobile web applications, jQuery Mobile, Sencha Touch ... technologies, node.js, PHP, Ruby on Rails, Django CSS Compilers, LESS, SASS Digital media, Flash, HTML5 Audio &amp;...&gt;</e>
+</r>
+<r>
+  <jt>Manager - .Net/SQL Programmer w/people and PM experience</jt>
+  <cn url="">Deloitte Development</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-42f05d8e623b2d222b2e1f63da9df14f6a4cd116/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-52/hits-83">Deloitte Development LLC</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-06T06:16:37Z</ls>
+  <dp>2014-01-06T06:16:37Z</dp>
+  <e>technologies (.NET 3.5 or higher)
+- VB.Net, ASP.Net, C#, Ajax, XML/XSLT/XPATH, ADO.net, Object oriented programming
+- ... etc.
+- Working knowledge on QlikView Ruby on Rails, Google Refine, HTML5, jQuery, Jasper Reports and...&gt;</e>
+</r>
+<r>
+  <jt>Hardcore UI JavaScript Developer</jt>
+  <cn url="">Smith &amp; Keller</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-2dff3bb0e3671373b13d50c6d9d2be6ea12eb3b1/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-53/hits-83">Smith &amp; Keller INC</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-02T20:35:21Z</ls>
+  <dp>2014-01-02T20:35:21Z</dp>
+  <e>themes, Drupal), JSP, Expression Engine or Ruby on Rails
+* Have working knowledge of Adobe Photoshop, including the ... control and bug tracking systems. (Specifically SVN is a plus)
+* Experience with AJAX technologies and...&gt;</e>
+</r>
+<r>
+  <jt>Senior System Architect (Technical Specialist)</jt>
+  <cn url="">Universal Technologies</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-15319.MH1382-1-518/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-54/hits-83">Universal Technologies, LLC</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-09T02:20:06Z</ls>
+  <dp>2014-01-09T02:20:06Z</dp>
+  <e>development using C#.NET, ASP.NET, ADO.NET, HTML 5, AJAX, WPF, WCF, MVC, jQuery, Entity Framework, LINQ, Visual ... Exposure to Open Source technology stacks ( LAMP, Ruby on Rails etc. ). Working knowledge in Business Intelligence and...&gt;</e>
+</r>
+<r>
+  <jt>Solutions Architect</jt>
+  <cn url="">Tailwind Associates</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5725372/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-55/hits-83">Dice</src>
+  <ty>organic</ty>
+  <loc cty="Englewood Cliffs" st="NY" postal="10119" county="Manhattan" region="" country="US">Englewood Cliffs, NY</loc>
+  <ls>2014-01-15T06:04:17Z</ls>
+  <dp>2014-01-14T17:06:19Z</dp>
+  <e>CSS etc. Experience in MVC Frameworks such as Ruby, Ruby on Rails, Spring, Struts2, Hibernate, Seam, JQuery, Rich faces, ... MVC4 etc. Experience in modern programming components like AJAX, Web Services (WSREST),WebSockets, AAS. Must have used...&gt;</e>
+</r>
+<r>
+  <jt>Senior Application Developer Job Number: 13-01642</jt>
+  <cn url="">Klein Management</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-13521.0bce9b521/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-56/hits-83">ZipRecruiter</src>
+  <ty>organic</ty>
+  <loc cty="Brooklyn" st="NY" postal="" county="Brooklyn" region="" country="US">Brooklyn, NY</loc>
+  <ls>2014-01-11T23:43:35Z</ls>
+  <dp>2014-01-11T23:43:35Z</dp>
+  <e>Implement web-based user interfaces in .NET using Razor/MVC3/MWM architectural patterns, AJAX, HTML5, CSS and JavaScript ... development using C#.NET, ASP.NET, ADO.NET, HTML 5, AJAX, WPF, WCF, MVC, jQuery, Entity Framework, LINQ, Visual...&gt;</e>
+</r>
+<r>
+  <jt>EXT JS Developer</jt>
+  <cn url=""/>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-13521.3a1717c5/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-57/hits-83">ZipRecruiter</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-09T15:40:51Z</ls>
+  <dp>2014-01-09T15:40:51Z</dp>
+  <e>with REST and JSON-Working with a Ruby on Rails Backend is a plus.-The ability to clearly communicate ... experience with Javascript UI Development (HTML, AJAX, CSS, JavaScript) required.-The ability to quickly and...&gt;</e>
+</r>
+<r>
+  <jt>UI Engineer</jt>
+  <cn url=""/>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8497.17239/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-58/hits-83">Personforce</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-02T22:06:01Z</ls>
+  <dp>2014-01-02T22:06:01Z</dp>
+  <e>Solid knowledge of cross browser HTML, CSS, JavaScript and AJAX. Experience with Mustache and Sass a plus. Experience ... (we use jQuery), a server-side web framework (JSP, PHP, Rails, .NET, etc), and a version control system (we use Git).&gt;</e>
+</r>
+<r>
+  <jt>Software Engineer (Java Backend), Productopia</jt>
+  <cn url="">Ask.com</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-21273.29881_jobvite-oyjgyfwf/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-59/hits-83">Bright.com</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-15T04:49:58Z</ls>
+  <dp>2014-01-09T05:57:48Z</dp>
+  <e>e.g. PlayFramework , SpringMVC and Ruby on Rails a plus. You know how to use REST web services and are familiar ... a plus. Experience with CSS, HTML, JavaScript and Ajax a plus. Demonstrated ability to work with business owners and...&gt;</e>
+</r>
+<r>
+  <jt>Innovation Engineer - Web/Mobile/LAMP</jt>
+  <cn url="">Consumerreports.org</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-21273.93158_jobs-consumers-2244/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-60/hits-83">Bright.com</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-15T04:44:59Z</ls>
+  <dp>2014-01-09T05:54:19Z</dp>
+  <e>Develop front-end (HTML5, CSS, JavaScript, JSON, AJAX, REST), back-end (Ruby on Rails, PHP, python, node.js), and databases (MySQL, mongoDB, hadoop); and perform light systems administration (Linux, AWS, heroku) to support prototype...&gt;</e>
+</r>
+<r>
+  <jt>Manager - .Net/SQL Programmer w/people and PM experience</jt>
+  <cn url="">Deloitte</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5614373/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-61/hits-83">Dice</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="10001" county="Manhattan" region="" country="US">New York, NY</loc>
+  <ls>2014-01-15T02:10:47Z</ls>
+  <dp>2014-01-08T03:10:22Z</dp>
+  <e>Services is required. Working knowledge on QlikView Ruby on Rails, Google Refine, HTML5, jQuery, Jasper Reports and ... technologies (.NET 3.5 or higher) - VB.Net, ASP.Net, C, Ajax, XMLXSLTXPATH, ADO.net, Object oriented programming -...&gt;</e>
+</r>
+<r>
+  <jt>Consultant - .Net/SQL Programmer</jt>
+  <cn url="">Deloitte</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-5296.201557301/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-62/hits-83">Job.com</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="10176" county="Manhattan" region="" country="US">New York, NY</loc>
+  <ls>2014-01-14T14:05:18Z</ls>
+  <dp>2014-01-14T14:05:18Z</dp>
+  <e>are required. Working knowledge on QlikView Ruby on Rails, Google Refine, HTML5, jQuery, Jasper Reports and ... * Web development in Microsoft technologies * VB.Net, ASP.Net, C#, Ajax, XML/XSLT/XPATH, ADO.net, Object oriented progra...&gt;</e>
+</r>
+<r>
   <jt>Consultant - .Net/SQL Programmer</jt>
   <cn url="">Deloitte Development</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8e1d1d757cda9d6855b63613cfd35d33478ed26f/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-50/hits-66">Deloitte Development LLC</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8e1d1d757cda9d6855b63613cfd35d33478ed26f/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-63/hits-83">Deloitte Development LLC</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2014-01-06T05:38:47Z</ls>
@@ -30,7 +166,7 @@
 <r>
   <jt>PHP / Front End Web Developer</jt>
   <cn url="">Cybercoders</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.RK1-ItsaWholeWebDev_1/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-51/hits-66">CyberCoders</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.RK1-ItsaWholeWebDev_1/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-64/hits-83">CyberCoders</src>
   <ty>organic</ty>
   <loc cty="Union City" st="NJ" postal="07094" county="Hudson County" region="" country="US">Union City, NJ</loc>
   <ls>2014-01-02T12:28:00Z</ls>
@@ -38,41 +174,29 @@
   <e>A plus for: • Any experience with Ruby on Rails • Experience with Drupal 7.x / 6.x and PHP 5.x ... • Expertise with web services and third party system integration • Experience working with AJAX and services/ API's to s...&gt;</e>
 </r>
 <r>
-  <jt>Senior Consultant - .Net/SQL Programmer w/Lead experience</jt>
-  <cn url="">Deloitte</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5615941/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-52/hits-66">Dice</src>
+  <jt>Innovation Engineer - Web/Mobile/LAMP</jt>
+  <cn url="">Consumers Union of United States</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-21273.2788068_jobs1-consumers-2244/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-65/hits-83">Bright.com</src>
   <ty>organic</ty>
-  <loc cty="New York" st="NY" postal="10001" county="Manhattan" region="" country="US">New York, NY</loc>
-  <ls>2014-01-10T05:11:46Z</ls>
-  <dp>2014-01-08T03:10:04Z</dp>
-  <e>Services is required. Working knowledge on QlikView Ruby on Rails, Google Refine, HTML5, jQuery, Jasper Reports and ... in Microsoft technologies bull VB.Net, ASP.Net, C, Ajax, XMLXSLTXPATH, ADO.net, Object oriented programming...&gt;</e>
+  <loc cty="New York" st="NY" postal="New" county="Orleans Parish" region="" country="US">New York, NY</loc>
+  <ls>2014-01-15T04:44:59Z</ls>
+  <dp>2014-01-02T05:24:59Z</dp>
+  <e>Develop front-end (HTML5, CSS, JavaScript, JSON, AJAX, REST), back-end (Ruby on Rails, PHP, python, node.js), and databases (MySQL, mongoDB, hadoop); and perform light systems administration (Linux, AWS, heroku) to support prototype...&gt;</e>
 </r>
 <r>
   <jt>Solution Architect</jt>
   <cn url="">Bluewater Communications Group</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5664913/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-53/hits-66">Dice</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5664913/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-66/hits-83">Dice</src>
   <ty>organic</ty>
   <loc cty="Englewood Cliffs" st="NJ" postal="07632" county="" region="" country="US">Englewood Cliffs, NJ</loc>
-  <ls>2014-01-11T02:05:52Z</ls>
+  <ls>2014-01-15T06:07:15Z</ls>
   <dp>2014-01-09T17:09:24Z</dp>
   <e>CSS etc. Experience in MVC Frameworks such as Ruby, Ruby on Rails, Spring, Struts2, Hibernate, Seam, JQuery, Rich faces, ... MVC4 etc. Experience in modern programming components like AJAX, Web Services(WSREST),WebSockets, AAS. Must have used...&gt;</e>
 </r>
 <r>
-  <jt>Hardcore UI JavaScript Developer</jt>
-  <cn url="">Smith &amp; Keller</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-2dff3bb0e3671373b13d50c6d9d2be6ea12eb3b1/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-54/hits-66">Smith &amp; Keller INC</src>
-  <ty>organic</ty>
-  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
-  <ls>2014-01-02T20:35:21Z</ls>
-  <dp>2014-01-02T20:35:21Z</dp>
-  <e>themes, Drupal), JSP, Expression Engine or Ruby on Rails
-* Have working knowledge of Adobe Photoshop, including the ... control and bug tracking systems. (Specifically SVN is a plus)
-* Experience with AJAX technologies and...&gt;</e>
-</r>
-<r>
   <jt>Full-Stack LAMP Developer</jt>
   <cn url="">Cybercoders</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.BT1-LAMPdevNY_1/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-55/hits-66">CyberCoders</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.BT1-LAMPdevNY_1/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-67/hits-83">CyberCoders</src>
   <ty>organic</ty>
   <loc cty="Manhattan" st="NY" postal="10013" county="Manhattan" region="" country="US">Manhattan, NY</loc>
   <ls>2014-01-06T12:30:55Z</ls>
@@ -80,19 +204,9 @@
   <e>MySQL, Smarty -jQuery Library, DOM manipulation, AJAX, SCSS for stylesheets, HTML5, JavaScript, UI/UX, ... stacks like Django, Ruby on Rails or .NET. So, if you are a Full-Stack LAMP Developer with strong front-end...&gt;</e>
 </r>
 <r>
-  <jt>Manager - .Net/SQL Programmer w/people and PM experience</jt>
-  <cn url="">Deloitte</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5614373/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-56/hits-66">Dice</src>
-  <ty>organic</ty>
-  <loc cty="New York" st="NY" postal="10001" county="Manhattan" region="" country="US">New York, NY</loc>
-  <ls>2014-01-10T05:12:02Z</ls>
-  <dp>2014-01-08T03:10:22Z</dp>
-  <e>Services is required. Working knowledge on QlikView Ruby on Rails, Google Refine, HTML5, jQuery, Jasper Reports and ... technologies (.NET 3.5 or higher) - VB.Net, ASP.Net, C, Ajax, XMLXSLTXPATH, ADO.net, Object oriented programming -...&gt;</e>
-</r>
-<r>
   <jt>Full-Stack PHP Developer</jt>
   <cn url="">Cybercoders</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.BT1-PHPdevNY_1/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-57/hits-66">CyberCoders</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.BT1-PHPdevNY_1/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-68/hits-83">CyberCoders</src>
   <ty>organic</ty>
   <loc cty="Manhattan" st="NY" postal="10013" county="Manhattan" region="" country="US">Manhattan, NY</loc>
   <ls>2013-12-20T20:28:25Z</ls>
@@ -102,7 +216,7 @@
 <r>
   <jt>Senior RoR/JavaScript Engineer</jt>
   <cn url="">Cybercoders</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.AD1-RubyJavaScriptNYC/rid-wwhyanqqimmaykegqclpiwocutmvexmu/cjp-58/hits-66">CyberCoders</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.AD1-RubyJavaScriptNYC/rid-klisxnypnvcreaxbxceutroqomqhgiox/cjp-69/hits-83">CyberCoders</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="10001" county="Manhattan" region="" country="US">New York, NY</loc>
   <ls>2013-12-24T12:27:47Z</ls>

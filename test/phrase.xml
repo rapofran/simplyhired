@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE shrs SYSTEM "http://api.simplyhired.com/c/jobs-api/html/sr2.dtd">
+<shrs>
+<rq url="http://api.simplyhired.com/a/jobs-api/xml_v2/q-%22Rails+Ajax%22/l-New+York%2CNY/mi-10/fdb-30/pn-1/ws-25">
+  <t>"rails Ajax" Jobs - New York, NY</t>
+  <dt>2014-01-15T15:57:44Z</dt>
+  <si>0</si>
+  <rpd>25</rpd>
+  <tr>1</tr>
+  <tv>1</tv>
+  <em url=""/>
+<h>
+  <kw pos="1"/>
+</h>
+</rq>
+<rs>
+<r>
+  <jt>Digital Platform Architect (Tech Director)</jt>
+  <cn url="">Star Solutions A Linium Company</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-14828.job1408210/rid-hmnjbdsfffieuodhratangugdajiinvl/cjp-0/hits-1">BullhornReach.com</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-04T03:13:53Z</ls>
+  <dp>2014-01-04T03:13:53Z</dp>
+  <e>Position Title: Digital – Platform Architect (Tech Director) Location: New York/Headquarters Job Code: 1292 About Capco Capco, a global business and technology consultancy dedicated solely to the financial services industry. Our...&gt;</e>
+</r>
+</rs>
+<pjl>
+</pjl>
+</shrs>

@@ -3,11 +3,11 @@
 <shrs>
 <rq url="http://api.simplyhired.com/a/jobs-api/xml_v2/q-Rails+Ajax/l-New+York%2CNY/mi-10/fdb-30/pn-1/ws-25">
   <t>Rails Ajax Jobs - New York, NY</t>
-  <dt>2014-01-14T16:09:16Z</dt>
+  <dt>2014-01-15T16:43:51Z</dt>
   <si>0</si>
   <rpd>25</rpd>
-  <tr>66</tr>
-  <tv>59</tv>
+  <tr>83</tr>
+  <tv>70</tv>
   <em url=""/>
 <h>
   <kw pos="1"/>
@@ -15,9 +15,19 @@
 </rq>
 <rs>
 <r>
+  <jt>Senior Web Developer (Ruby/Rails/Javascript)</jt>
+  <cn url="">Namtek</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTUgMDg6NDM6NTEmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9NDkyNDcmY19pZD0zMDE0MiZjcGM9MC4xNSZwb3M9MSZoYXNoPWQ1YzQ4M2RjMTFjYzZiODBkMDY1NjIwMzM5ZWYxZGRi%3B9795404f7f1c0852f1e17ccdc9997c94/jobkey-25070.5717646/rid-ggfwwrrhjgyubznraudgielukgozzhdw/pub_id-49821/cjp-0/hits-83">Dice</src>
+  <ty>sponsored</ty>
+  <loc cty="New York" st="NY" postal="10013" county="Manhattan" region="" country="US">New York, NY</loc>
+  <ls>2014-01-15T06:05:29Z</ls>
+  <dp>2014-01-14T01:06:41Z</dp>
+  <e>Oriented), jQuery, and AJAX Experience developing Ruby on Rails applications (or Pythondjango) Entrepreneurial spirit ... including HTML5, CSS3, Javascript (Object Oriented), jQuery, and AJAX, experience developing Ruby on Rails...&gt;</e>
+</r>
+<r>
   <jt>Senior Software Engineer - Ruby on Rails</jt>
   <cn url="">Secondmarket</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTQgMDg6MDk6MTYmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9MjA1MCZjX2lkPTI2OTE5JmNwYz0wLjExJnBvcz0xJmhhc2g9ZWY3YTJiNTI5NWNhM2RlNmIwOGVhMDhmNjA2ZTkzMjg%3D%3B58129023314b1311800b63e067241a12/jobkey-5850.6877744/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/pub_id-49821/cjp-0/hits-66">TheLadders.com</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTUgMDg6NDM6NTEmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9MjA1MCZjX2lkPTI2OTE5JmNwYz0wLjE0JnBvcz0yJmhhc2g9OTgxNTE0MzI1MmFhMzhmMDdjM2FmYWE0NTg5MzVkMzE%3D%3B03aa7c59e0ee778f44f203a9c7e008cf/jobkey-5850.6877744/rid-ggfwwrrhjgyubznraudgielukgozzhdw/pub_id-49821/cjp-1/hits-83">TheLadders.com</src>
   <ty>sponsored</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2014-01-12T13:09:25Z</ls>
@@ -25,29 +35,9 @@
   <e>is looking for a highly motivated and talented Senior Rails Software Engineer to join our Technology Team in ... Experience building large web applications with Ruby on Rails. Extensively coded with MVC frameworks Strong knowledge of...&gt;</e>
 </r>
 <r>
-  <jt>Senior Back-End Software Engineer (Java Rails)</jt>
-  <cn url="">Capital Markets</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTQgMDg6MDk6MTYmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9MjAyOSZjX2lkPTI1NzE1JmNwYz0wLjEmcG9zPTImaGFzaD0yNzZhMzEwZTQ1ZjVkNWI0M2UzNWUwMzIxYWQxMWU1YQ%3D%3D%3B09117488adfc309ad4d5b42b5fcace4d/jobkey-5296.200956969/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/pub_id-49821/cjp-1/hits-66">Job.com</src>
-  <ty>sponsored</ty>
-  <loc cty="New York" st="NY" postal="10003" county="Manhattan" region="" country="US">New York, NY</loc>
-  <ls>2014-01-12T14:05:46Z</ls>
-  <dp>2014-01-12T14:05:46Z</dp>
-  <e>server systems. 2+ years coding experience with Ruby on Rails. 2+ years coding experience with Java. Experience with ... Experience with Web related technologies like Javascript, HTML 4/5, AJAX, JSON, Node.js...&gt;</e>
-</r>
-<r>
-  <jt>Ruby on Rails / Can work remote for great start-up</jt>
-  <cn url="">Hirefighters</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTQgMDg6MDk6MTYmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9MjEzNSZjX2lkPTE4OTUyJmNwYz0wLjA3JnBvcz0zJmhhc2g9YWU4ZDhiYWQ5MDQ2YmJkOTE0MjgzNzg0NjhhNjAxODA%3D%3Bc337516fc9c622236a4d423d32c1d5cb/jobkey-8686.661528100061100/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/pub_id-49821/cjp-2/hits-66">Get Rails Jobs</src>
-  <ty>sponsored</ty>
-  <loc cty="New York" st="NY" postal="10080" county="Manhattan" region="" country="US">New York, NY</loc>
-  <ls>2013-12-31T20:55:22Z</ls>
-  <dp>2013-12-31T20:55:22Z</dp>
-  <e>Ruby on Rails / Can work remote for great start-up Title: Ruby on Rails / Can work remote for great start-upLocation: Re ... Experience deploying and scaling commercial Ruby on Rails applications.? Experience creating and consuming...&gt;</e>
-</r>
-<r>
   <jt>Senior Software Engineer (Java Rails)</jt>
   <cn url="">Capital Markets</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTQgMDg6MDk6MTYmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9MjAyOSZjX2lkPTI1NzE1JmNwYz0wLjEmcG9zPTQmaGFzaD0yNzZhMzEwZTQ1ZjVkNWI0M2UzNWUwMzIxYWQxMWU1YQ%3D%3D%3B5f04db53ef749471111220f4d6fe88af/jobkey-5296.200956967/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/pub_id-49821/cjp-3/hits-66">Job.com</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTUgMDg6NDM6NTEmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9MjAyOSZjX2lkPTI1NzE1JmNwYz0wLjEmcG9zPTMmaGFzaD02YTBjMTg4NTQ3OGE1ODQ1YzM2ZmI1MDY4NzA0MTI0Ng%3D%3D%3B6904ab943cccf62f63edafeb3f1cbcc0/jobkey-5296.200956967/rid-ggfwwrrhjgyubznraudgielukgozzhdw/pub_id-49821/cjp-2/hits-83">Job.com</src>
   <ty>sponsored</ty>
   <loc cty="New York" st="NY" postal="10003" county="Manhattan" region="" country="US">New York, NY</loc>
   <ls>2014-01-12T14:05:46Z</ls>
@@ -55,9 +45,59 @@
   <e>server systems. 2 years coding experience with Ruby on Rails. 2 years coding experience with Java. Experience with ... Experience with Web related technologies like Javascript, HTML 4/5, AJAX, JSON, Node.js...&gt;</e>
 </r>
 <r>
+  <jt>Ruby on Rails Developer</jt>
+  <cn url="">Smart Ims</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTUgMDg6NDM6NTEmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9NDQ0NDcmY19pZD0yMjk2OCZjcGM9MC4wOCZwb3M9NCZoYXNoPWIzZjFjNWMxZjcxMDQ4ZjBkZDk3YzJjYWEwOGVkMWM5%3B10ad65be2a2e659d31265f58f2abf83b/jobkey-21273.5178194_smartims-1263509/rid-ggfwwrrhjgyubznraudgielukgozzhdw/pub_id-49821/cjp-3/hits-83">Bright.com</src>
+  <ty>sponsored</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-15T04:36:28Z</ls>
+  <dp>2014-01-12T05:15:10Z</dp>
+  <e>Ruby On Rails New York City, NY Contract to hire DotNet Nuke exp is preferred. Looking for a pure Ruby on Rails ... in programming through the use of JavaScript, jQuery, AJAX and JSON; (4) experience in building web services using...&gt;</e>
+</r>
+<r>
+  <jt>Ruby on Rails / Can work remote for great start-up</jt>
+  <cn url="">Hirefighters</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTUgMDg6NDM6NTEmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9MjEzNSZjX2lkPTE4OTUyJmNwYz0wLjA3JnBvcz01Jmhhc2g9OTgwNWI1ODAwYmU4NTM4MzgwMTIzNzhjMGI5NWE0Y2Q%3D%3Ba4cb91b53907da0770f44e6f07a2ee55/jobkey-8686.661528100061100/rid-ggfwwrrhjgyubznraudgielukgozzhdw/pub_id-49821/cjp-4/hits-83">Get Rails Jobs</src>
+  <ty>sponsored</ty>
+  <loc cty="New York" st="NY" postal="10080" county="Manhattan" region="" country="US">New York, NY</loc>
+  <ls>2013-12-31T20:55:22Z</ls>
+  <dp>2013-12-31T20:55:22Z</dp>
+  <e>Ruby on Rails / Can work remote for great start-up Title: Ruby on Rails / Can work remote for great start-upLocation: Re ... Experience deploying and scaling commercial Ruby on Rails applications.? Experience creating and consuming...&gt;</e>
+</r>
+<r>
+  <jt>Senior Back-End Software Engineer (Java Rails)</jt>
+  <cn url="">Capital Markets</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTUgMDg6NDM6NTEmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9MjAyOSZjX2lkPTI1NzE1JmNwYz0wLjEmcG9zPTYmaGFzaD02YTBjMTg4NTQ3OGE1ODQ1YzM2ZmI1MDY4NzA0MTI0Ng%3D%3D%3B7c288dab5f861b98ffc64b43ba8372f0/jobkey-5296.200956969/rid-ggfwwrrhjgyubznraudgielukgozzhdw/pub_id-49821/cjp-5/hits-83">Job.com</src>
+  <ty>sponsored</ty>
+  <loc cty="New York" st="NY" postal="10003" county="Manhattan" region="" country="US">New York, NY</loc>
+  <ls>2014-01-12T14:05:46Z</ls>
+  <dp>2014-01-12T14:05:46Z</dp>
+  <e>server systems. 2+ years coding experience with Ruby on Rails. 2+ years coding experience with Java. Experience with ... Experience with Web related technologies like Javascript, HTML 4/5, AJAX, JSON, Node.js...&gt;</e>
+</r>
+<r>
+  <jt>Software Developer-Ruby on Rails (Contract or Full Time)</jt>
+  <cn url="">Bedrocket Media Ventures</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTUgMDg6NDM6NTEmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9NDQ0NDcmY19pZD0yMjk2OCZjcGM9MC4wOCZwb3M9NyZoYXNoPWIzZjFjNWMxZjcxMDQ4ZjBkZDk3YzJjYWEwOGVkMWM5%3Bbf18f701e995cabae5119cad9fcab2ef/jobkey-21273.3647060_bqqrgigqer4r9nigakhp3q/rid-ggfwwrrhjgyubznraudgielukgozzhdw/pub_id-49821/cjp-6/hits-83">Bright.com</src>
+  <ty>sponsored</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2014-01-15T05:14:54Z</ls>
+  <dp>2014-01-09T06:17:31Z</dp>
+  <e>new model for media. You: An experienced Ruby on Rails developer with strong back end capabilities who’s eager to ... 4+ years experience developing Ruby on Rails applications Expertise with JavaScript, jQuery, Ajax and HTML/CSS,...&gt;</e>
+</r>
+<r>
+  <jt>Ruby on Rails Architect</jt>
+  <cn url="">Common Need</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/cparm-cF9pZD00OTgyMSZ6b25lPTYmaXA9JmNvdW50PTUwJnN0YW1wPTIwMTQtMDEtMTUgMDg6NDM6NTEmY291bnRyeT11cyZwdWJsaXNoZXJfY2hhbm5lbF9pZHM9JmFfaWQ9NDQ0NDcmY19pZD0yMjk2OCZjcGM9MC4wOCZwb3M9OCZoYXNoPWIzZjFjNWMxZjcxMDQ4ZjBkZDk3YzJjYWEwOGVkMWM5%3Beb9ed789fd5e4a83752dc87a4478f45c/jobkey-21273.23708217_caksvu-hkr3izsaawpp1hh/rid-ggfwwrrhjgyubznraudgielukgozzhdw/pub_id-49821/cjp-7/hits-83">Bright.com</src>
+  <ty>sponsored</ty>
+  <loc cty="Hoboken" st="NJ" postal="" county="Hudson County" region="" country="US">Hoboken, NJ</loc>
+  <ls>2014-01-15T04:59:10Z</ls>
+  <dp>2014-01-09T06:06:01Z</dp>
+  <e>Responsibilities - Work with designers to architect Ruby on Rails applications - Produce UML modeling documents that ... object-oriented business logic - Working knowledge of AJAX (XML, JSON) - Solid knowledge of at least one...&gt;</e>
+</r>
+<r>
   <jt>Rails Developer - Mid or Senior Level</jt>
   <cn url="">Aegistech</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-15319.MH2275-1-25639/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-4/hits-66">Aegistech</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-15319.MH2275-1-25639/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-8/hits-83">Aegistech</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2014-01-09T02:21:41Z</ls>
@@ -67,7 +107,7 @@
 <r>
   <jt>Front End Developer : SCSS/CSS, Javascript, jQuery, AJAX, HTML</jt>
   <cn url="">Whiting Consulting</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-5843.216876/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-5/hits-66">iitjobs.com</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-5843.216876/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-9/hits-83">iitjobs.com</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2014-01-08T10:06:28Z</ls>
@@ -77,7 +117,7 @@
 <r>
   <jt>Ruby on Rails / EXT JS Developer</jt>
   <cn url="">Randstad Technologies - New</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-7695.6908172/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-6/hits-66">www.randstad.com</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-7695.6908172/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-10/hits-83">www.randstad.com</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="10020" county="Manhattan" region="" country="US">New York, NY</loc>
   <ls>2014-01-14T02:37:44Z</ls>
@@ -87,17 +127,17 @@
 <r>
   <jt>Ruby on Rails / EXT JS Developer</jt>
   <cn url="">Randstad Technologies</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5719599/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-7/hits-66">Dice</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-25070.5719599/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-11/hits-83">Dice</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="10020" county="Manhattan" region="" country="US">New York, NY</loc>
-  <ls>2014-01-14T01:06:16Z</ls>
+  <ls>2014-01-15T02:07:54Z</ls>
   <dp>2014-01-14T01:06:16Z</dp>
   <e>x0D Solid experience with JavaScript UI Development (HTML, AJAX, CSS, JavaScript) required. x0D ExtJS required x0D ... with producing prototypes x0D Working with a Ruby on Rails Backend is a plus. Randstad Technologies is an...&gt;</e>
 </r>
 <r>
   <jt>Software Engineer in the Wine &amp; Spirits Industry (Rails)</jt>
   <cn url="">Sevenfifty</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-153f97639053ad893d5d56a665cd2fb9dc4c820/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-8/hits-66">Stack Overflow</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-153f97639053ad893d5d56a665cd2fb9dc4c820/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-12/hits-83">Stack Overflow</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2014-01-09T06:28:04Z</ls>
@@ -113,7 +153,7 @@ Job ... (Rails preferred), databases/SQL, HTML/CSS/JS, AJAX, dynamic programming
 <r>
   <jt>RAILS, RAILS, RAILS in New York City</jt>
   <cn url=""/>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-16370.31064544/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-9/hits-66">eBay Classifieds</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-16370.31064544/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-13/hits-83">eBay Classifieds</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="10017" county="Manhattan" region="" country="US">New York, NY</loc>
   <ls>2013-12-24T11:22:21Z</ls>
@@ -123,7 +163,7 @@ Job ... (Rails preferred), databases/SQL, HTML/CSS/JS, AJAX, dynamic programming
 <r>
   <jt>Senior Ruby on Rails Developer – One of the Best Places To Work</jt>
   <cn url="">Fild</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-14520.5480890/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-10/hits-66">Recruitics</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-14520.5480890/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-14/hits-83">Recruitics</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2013-12-24T05:06:16Z</ls>
@@ -133,7 +173,7 @@ Job ... (Rails preferred), databases/SQL, HTML/CSS/JS, AJAX, dynamic programming
 <r>
   <jt>Lead Ruby on Rails Developer</jt>
   <cn url="">Cybercoders</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.SP-rordevsf01_1/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-11/hits-66">CyberCoders</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.SP-rordevsf01_1/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-15/hits-83">CyberCoders</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="10001" county="Manhattan" region="" country="US">New York, NY</loc>
   <ls>2014-01-08T20:36:04Z</ls>
@@ -143,7 +183,7 @@ Job ... (Rails preferred), databases/SQL, HTML/CSS/JS, AJAX, dynamic programming
 <r>
   <jt>Senior Ruby on Rails Developer</jt>
   <cn url="">Workbridge Associates</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-b369fff06fd1a59b338c2eca8e2cac8544a048/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-12/hits-66">Workbridge Associates</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-b369fff06fd1a59b338c2eca8e2cac8544a048/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-16/hits-83">Workbridge Associates</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2013-12-17T21:04:10Z</ls>
@@ -159,7 +199,7 @@ Required Skills
 <r>
   <jt>Ruby On Rails Developer in New York City</jt>
   <cn url=""/>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-16370.31038175/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-13/hits-66">eBay Classifieds</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-16370.31038175/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-17/hits-83">eBay Classifieds</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="10017" county="Manhattan" region="" country="US">New York, NY</loc>
   <ls>2013-12-21T11:19:54Z</ls>
@@ -167,19 +207,9 @@ Required Skills
   <e>in Manhattan. Required Skills 3-5 years of Ruby on Rails Development Extensive experience with open source code ... of Javascript and other front end technologies (HTML, CSS, AJAX, etc) Experience working in an Agile...&gt;</e>
 </r>
 <r>
-  <jt>Senior Ruby on Rails Developer – One of America’s Hottest Brands!</jt>
-  <cn url="">Fild</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-14520.5417400/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-14/hits-66">Recruitics</src>
-  <ty>organic</ty>
-  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
-  <ls>2013-12-17T23:08:54Z</ls>
-  <dp>2013-12-17T23:08:54Z</dp>
-  <e>Rails Proficiency in HTML 5, Javascript, CSS and AJAX Familiarity with TDD, pairing and A/B Testing Proven ability to ... equity So if you’re a Senior Ruby on Rails Engineer that wants to build technology that delight a rapidly...&gt;</e>
-</r>
-<r>
   <jt>Ruby on Rails Developer</jt>
   <cn url="">Cybercoders</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.SS2-1134949_1/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-15/hits-66">CyberCoders</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-8395.SS2-1134949_1/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-18/hits-83">CyberCoders</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="10017" county="Manhattan" region="" country="US">New York, NY</loc>
   <ls>2014-01-12T05:58:30Z</ls>
@@ -187,9 +217,19 @@ Required Skills
   <e>Ruby on Rails Developer - Ruby on Rails, web development, HTML5 Ruby on Rails Developer - Ruby on Rails, web ... lead a long and healthy life. So, if you are a Ruby on Rails Developer with 3+ years of rails experience, please...&gt;</e>
 </r>
 <r>
+  <jt>Senior Ruby on Rails Developer – One of America’s Hottest Brands!</jt>
+  <cn url="">Fild</cn>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-14520.5417400/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-19/hits-83">Recruitics</src>
+  <ty>organic</ty>
+  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
+  <ls>2013-12-17T23:08:54Z</ls>
+  <dp>2013-12-17T23:08:54Z</dp>
+  <e>Rails Proficiency in HTML 5, Javascript, CSS and AJAX Familiarity with TDD, pairing and A/B Testing Proven ability to ... equity So if you’re a Senior Ruby on Rails Engineer that wants to build technology that delight a rapidly...&gt;</e>
+</r>
+<r>
   <jt>Digital Platform Architect (Tech Director)</jt>
   <cn url="">Star Solutions A Linium Company</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-14828.job1408210/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-16/hits-66">BullhornReach.com</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-14828.job1408210/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-20/hits-83">BullhornReach.com</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2014-01-04T03:13:53Z</ls>
@@ -199,7 +239,7 @@ Required Skills
 <r>
   <jt>EXT JS Developer</jt>
   <cn url="">Davon Wright Recruiting &amp; Staffing</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-20771.31610/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-17/hits-66">DAVON Wright Recruiting &amp; Staffing</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-20771.31610/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-21/hits-83">DAVON Wright Recruiting &amp; Staffing</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2014-01-10T20:09:25Z</ls>
@@ -209,7 +249,7 @@ Required Skills
 <r>
   <jt>EXT JS Developer</jt>
   <cn url="">Concepts In Staffing</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-12630.Job-2212/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-18/hits-66">Concepts in Staffing</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-12630.Job-2212/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-22/hits-83">Concepts in Staffing</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2014-01-10T07:24:48Z</ls>
@@ -219,7 +259,7 @@ Required Skills
 <r>
   <jt>EXT JS Developer</jt>
   <cn url="">Davon Wright</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-27565.8a0367c65e851dc34a890b42d28c74ef/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-19/hits-66">DAVON Wright</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-27565.8a0367c65e851dc34a890b42d28c74ef/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-23/hits-83">DAVON Wright</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
   <ls>2014-01-09T20:05:52Z</ls>
@@ -228,69 +268,13 @@ Required Skills
 </r>
 <r>
   <jt>UI Engineers</jt>
-  <cn url="">Omidyar Networks</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-1b2d7b1cfd8d41a69adec42ff1e0e7d7259a18/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-20/hits-66">Omidyar Networks</src>
-  <ty>organic</ty>
-  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
-  <ls>2014-01-05T09:54:44Z</ls>
-  <dp>2014-01-05T09:54:44Z</dp>
-  <e>knowledge of cross browser HTML, CSS, JavaScript and AJAX. Experience with Mustache and Sass a plus.
-Experience ... (we use jQuery), a server-side web framework (JSP, PHP, Rails, .NET, etc), and a version control system (we use...&gt;</e>
-</r>
-<r>
-  <jt>UI Engineers</jt>
   <cn url="">Meetup</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-6503.o7jeYfwm/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-21/hits-66">Meetup</src>
+  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-6503.o7jeYfwm/rid-ggfwwrrhjgyubznraudgielukgozzhdw/cjp-24/hits-83">Meetup</src>
   <ty>organic</ty>
   <loc cty="New York" st="NY" postal="10012" county="Manhattan" region="" country="US">New York, NY</loc>
   <ls>2013-12-19T17:00:27Z</ls>
   <dp>2013-12-19T17:00:27Z</dp>
   <e>Solid knowledge of cross browser HTML, CSS, JavaScript and AJAX. Experience with Mustache and Sass a plus. Experience ... (we use jQuery), a server-side web framework (JSP, PHP, Rails, .NET, etc), and a version control system (we use...&gt;</e>
-</r>
-<r>
-  <jt>Technology Manager, Style.com</jt>
-  <cn url="">Conde Nast</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-5510bf8d9eb83039533e6e5319f485a38a13fdc/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-22/hits-66">Conde Nast</src>
-  <ty>organic</ty>
-  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
-  <ls>2014-01-09T23:43:33Z</ls>
-  <dp>2014-01-09T23:43:33Z</dp>
-  <e>EJB3?
-
-Internet technologies (TCP/IP, HTTP, SMTP, XML, RSS, AJAX, etc.)?
-
-Software engineering methodologies?
-
-Version ... languages and frameworks, such as Grails, Ruby on Rails, Django, PHP and / or Flex
-
-Fairchild Fashion Media...&gt;</e>
-</r>
-<r>
-  <jt>Programmer</jt>
-  <cn url="">Columbia University</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-979311e355f33d1adc4c1d2c7f5ab4836874364/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-23/hits-66">Columbia University</src>
-  <ty>organic</ty>
-  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
-  <ls>2014-01-03T11:50:00Z</ls>
-  <dp>2014-01-03T11:50:00Z</dp>
-  <e>management systems (Drupal), MVC web frameworks (Django or Rails), RESTful architecture, proficient UNIX skills, and ... knowledge of open web standards including HTML5, CSS, and AJAX....
-Preferred Qualifications  Familiarity with unit...&gt;</e>
-</r>
-<r>
-  <jt>Director of Engineering – Growing Start-Up!</jt>
-  <cn url="">Smith &amp; Keller</cn>
-  <src url="http://api.simplyhired.com/a/job-details/view/jobkey-f4d91d188fe0d48eaad353932ee4a82abb92f480/rid-egvcmgziqsnzzxpvrhttmcfauqzhjssd/cjp-24/hits-66">Smith &amp; Keller INC</src>
-  <ty>organic</ty>
-  <loc cty="New York" st="NY" postal="" county="" region="" country="US">New York, NY</loc>
-  <ls>2014-01-13T18:50:13Z</ls>
-  <dp>2014-01-13T18:50:13Z</dp>
-  <e>the Director of Engineering:
-
-* Develop new features in Rails 3, HTML5/CSS, Coffeescript and Backbone.js
-* Ensure ... team
-* Experience with HTML/CSS and JavaScript/AJAX
-* Experience with SQL
-* Independent and...&gt;</e>
 </r>
 </rs>
 <pjl>
