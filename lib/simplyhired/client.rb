@@ -27,7 +27,7 @@ module Simplyhired
 			@state = s && s.split.join('+')
 			@page_size = options[:ws] || 25
 			@distance = options[:distance] || 10
-			@days = options[:days] || 0 # 0 means all
+			@days = options[:days] || 0
 
 			@keywords = kw
 
@@ -58,10 +58,6 @@ module Simplyhired
 		def search(p = 1)
 			sh_prefix = 'http://api.simplyhired.com/a/jobs-api/xml-v2/q-'
 
-
-			pn = "/pn-#{p}"
-			kw = @keywords.join('+')
-
 			case @query_type
 			when :AND
 				kw = @keywords.join('+AND+')
@@ -72,11 +68,9 @@ module Simplyhired
 			end
 
 
-			if @days > 0
-				@uri = sh_prefix + kw + "/l-" + @location + "/mi-#{@distance}" + "/fdb-#{@days}" +"/ws-#{@page_size}" + pn + @credentials
-			else
-				@uri = sh_prefix + kw + "/l-" + @location + "/mi-#{@distance}" +"/ws-#{@page_size}" + pn + @credentials
-			end
+			qd = @days > 0 ? "/fdb-#{@days}" : ""
+
+			@uri = sh_prefix + kw + "/l-#{@location}" + "/mi-#{@distance}" + qd +"/ws-#{@page_size}" + "/pn-#{p}" + @credentials
 
 			@uri = URI.escape @uri
 
@@ -86,9 +80,14 @@ module Simplyhired
 			begin
 				io = open @uri
 				Ox.sax_parse(handler, io)
-				@jobs = handler.jobs
-				@total_count = handler.total
-				@accessible_count = handler.accessible_count.to_i
+				if handler.error
+					@jobs = nil
+					@error = handler.error
+				else
+					@jobs = handler.jobs
+					@total_count = handler.total
+					@accessible_count = handler.accessible_count.to_i
+				end
 			rescue Exception => e
 				@error = "SimlyHired Error - " + e.to_s
 				@jobs = nil
@@ -101,7 +100,7 @@ module Simplyhired
 		  JOB_ATTR = [:tr, :tv, :jt, :src, :cn, :e, :loc, :dp]
 		  JOB_XML_ATTR_MAP = {jt: :title, src: :source, cn: :company, e: :excerpt, loc: :location, dp: :date_posted}
 
-		  attr_reader :jobs, :total, :accessible_count
+		  attr_reader :jobs, :total, :accessible_count, :error
 
 		  def start_element(name)
 		    @job = {} if name == :r
@@ -121,6 +120,10 @@ module Simplyhired
 		  end
 
 		  def attr(name, val)
+		  	if @current_node == :error
+		  		@error = val if name == :type
+		  		return
+		  	end
 		    return unless JOB_ATTR.include?(@current_node)
 		    @job["#{JOB_XML_ATTR_MAP[@current_node]}:#{name}"] = val
 		  end

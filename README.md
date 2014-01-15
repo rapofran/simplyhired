@@ -1,6 +1,6 @@
 # Simplyhired
 
-TODO: Write a gem description
+Wrapper for Simplyhired XML API.
 
 ## Installation
 
@@ -18,10 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-First you need to register with simplyhired as a publisher to use this gem. 
-Go to http://www.simplyhired.com/a/publishers/overview
-
-On simplyhired site; register, sign in and click on XML API tab. There you will find all your credentials. Make a note of pshid and jbd parameters.
+First you need to register with simplyhired as a publisher.
 
 create a config file and define these parameters:
 
@@ -35,11 +32,21 @@ in config/initializers/simplyhired.rb
 Get jobs:
 
 sh = Simplyhired::Client.new(ip_address) # "192.168.1.1"
-jobs = sh.search_jobs(query_type, ["ruby", "ajax"], nil, "New York", 'NY', 15, 30)
+jobs = sh.search_jobs(["ruby", "ajax"], nil, "New York", 'NY', distance: 15, days: 30)
 
-## Contributing
+search_jobs parameters:
 
-1. Fork it ( http://github.com/<my-github-username>/simplyhired/fork )
+keywords(array), zipcode, city, state, options
+
+available options:
+
+distance: in miles
+days: specify 0 for posted anytime
+ws: number of jobs per page
+page: page number
+query_type:  :OR | :AND | :PHRASE
+
+1. Fork it ( http://github.com/murtyk/simplyhired/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
