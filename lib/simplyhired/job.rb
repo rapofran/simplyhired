@@ -8,15 +8,11 @@ module Simplyhired
 				replace:  '',			# Use a blank for those replacements
 				universal_newline: true # Always break lines with \n
 			}
-			if jhash[:title]
-				@title = jhash[:title].gsub("&amp;", "&")
-			end
+			
+			@title = jhash[:title] && jhash[:title].encode(Encoding.find('ASCII'), encoding_options).gsub("&amp;", "&")
 			@excerpt = jhash[:excerpt]
 			@location = jhash[:location]
-			if jhash[:company]
-				name = jhash[:company].encode Encoding.find('ASCII'), encoding_options
-				@company = name.gsub("&amp;", "&")
-			end
+			@company = jhash[:company] && jhash[:company].encode(Encoding.find('ASCII'), encoding_options).gsub("&amp;", "&")
 			@source = jhash[:source]
 			@details_url = jhash["source:url"]
 			@date_posted = jhash[:date_posted]
