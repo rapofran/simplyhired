@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = [""]
   spec.summary       = %q{Wrapper for Simplyhired xml api.}
   spec.description   = %q{Wrapper for Simplyhired xml api.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/murtyk/simplyhired"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
