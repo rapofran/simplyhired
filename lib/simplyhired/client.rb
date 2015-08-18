@@ -56,7 +56,7 @@ module Simplyhired
 	  private
 
 		def search(p = 1)
-			sh_prefix = 'http://api.simplyhired.com/a/jobs-api/xml-v2/q-'
+			sh_prefix = 'http://api.simplyhired.com/a/jobs-api/jsonp/q-'
 
 			case @query_type
 			when :AND
