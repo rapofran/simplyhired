@@ -76,7 +76,7 @@ module Simplyhired
 
       # http://api.simplyhired.com/a/jobs-api/jsonp/q-ruby+san+francisco?pshid=120144&ssty=2&cflg=r&auth=ff3d787b6181b64f96ef6cebd464d13d457d592c.120144&clip=190.191.111.116
       begin
-        result = RestClient.get("#{@base_uri}/q-#{kw}", { params: { pshid: @pshid, ssty: 2, cflg: 'r', auth: @auth, clip: @ip } })
+        result = RestClient.get("#{@base_uri}/q-#{kw}", { params: { pshid: @pshid, ssty: 2, cflg: 'r', auth: @auth, clip: @ip, ws: @page_size, l: @location } })
         result = result.gsub('sh_cb(', '').gsub(');', '')
 
         @jobs = JSON.parse result
